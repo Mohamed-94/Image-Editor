@@ -1,0 +1,20 @@
+c:\users\mohamed\documents\visual studio 2013\Projects\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe.config
+c:\users\mohamed\documents\visual studio 2013\Projects\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe
+c:\users\mohamed\documents\visual studio 2013\Projects\ImageEditor\ImageEditor\bin\Debug\ImageEditor.pdb
+c:\users\mohamed\documents\visual studio 2013\Projects\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csprojResolveAssemblyReference.cache
+c:\users\mohamed\documents\visual studio 2013\Projects\ImageEditor\ImageEditor\obj\Debug\ImageEditor.Form1.resources
+c:\users\mohamed\documents\visual studio 2013\Projects\ImageEditor\ImageEditor\obj\Debug\ImageEditor.Properties.Resources.resources
+c:\users\mohamed\documents\visual studio 2013\Projects\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csproj.GenerateResource.Cache
+c:\users\mohamed\documents\visual studio 2013\Projects\ImageEditor\ImageEditor\obj\Debug\ImageEditor.exe
+c:\users\mohamed\documents\visual studio 2013\Projects\ImageEditor\ImageEditor\obj\Debug\ImageEditor.pdb
+E:\New folder\Projects\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe.config
+E:\New folder\Projects\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe
+E:\New folder\Projects\ImageEditor\ImageEditor\bin\Debug\ImageEditor.pdb
+E:\New folder\Projects\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csprojAssemblyReference.cache
+E:\New folder\Projects\ImageEditor\ImageEditor\obj\Debug\ImageEditor.Form1.resources
+E:\New folder\Projects\ImageEditor\ImageEditor\obj\Debug\ImageEditor.Properties.Resources.resources
+E:\New folder\Projects\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csproj.GenerateResource.cache
+E:\New folder\Projects\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csproj.CoreCompileInputs.cache
+E:\New folder\Projects\ImageEditor\ImageEditor\obj\Debug\ImageEditor.exe
+E:\New folder\Projects\ImageEditor\ImageEditor\obj\Debug\ImageEditor.pdb
+E:\New folder\Projects\ImageEditor\ImageEditor\obj\Debug\ImageEditor.AboutBox1.resources

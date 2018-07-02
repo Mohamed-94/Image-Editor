@@ -1,0 +1,11 @@
+E:\New folder\Projects\ImageEditor\ImageEditor\bin\Release\ImageEditor.exe.config
+E:\New folder\Projects\ImageEditor\ImageEditor\bin\Release\ImageEditor.exe
+E:\New folder\Projects\ImageEditor\ImageEditor\bin\Release\ImageEditor.pdb
+E:\New folder\Projects\ImageEditor\ImageEditor\obj\Release\ImageEditor.AboutBox1.resources
+E:\New folder\Projects\ImageEditor\ImageEditor\obj\Release\ImageEditor.Form1.resources
+E:\New folder\Projects\ImageEditor\ImageEditor\obj\Release\ImageEditor.Properties.Resources.resources
+E:\New folder\Projects\ImageEditor\ImageEditor\obj\Release\ImageEditor.csproj.GenerateResource.cache
+E:\New folder\Projects\ImageEditor\ImageEditor\obj\Release\ImageEditor.csproj.CoreCompileInputs.cache
+E:\New folder\Projects\ImageEditor\ImageEditor\obj\Release\ImageEditor.exe
+E:\New folder\Projects\ImageEditor\ImageEditor\obj\Release\ImageEditor.pdb
+E:\New folder\Projects\ImageEditor\ImageEditor\obj\Release\ImageEditor.csprojAssemblyReference.cache
